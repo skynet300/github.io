@@ -1,2 +1,2 @@
-# project1
+# github.io
 html project repo
